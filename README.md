@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there
+My name is Marek and I am student of last year of Computer Science at University of Technology.
+I work as Data Engineer since November 2020.
 
 
 - 🔭 I’m currently working on Python scraper for my studies. I also take a part in AoC event: [repo](https://github.com/thebestofal/advent_of_code_2022)
