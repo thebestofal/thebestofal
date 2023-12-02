@@ -1,5 +1,5 @@
 ### Hi there
-My name is Marek and I am student of last year of Computer Science at University of Technology.
+My name is Marek and I am Master of Computer Science which I finished at University of Technology.
 I work as Data Engineer since November 2020.
 
 
